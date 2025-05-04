@@ -1,0 +1,5 @@
+SELECT * FROM
+DROP TABLE
+unauthorized access
+ddos attack
+exec xp_cmdshell

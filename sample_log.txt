@@ -1,0 +1,7 @@
+User admin failed login
+SELECT * FROM users WHERE username='admin'
+Normal operation log
+System running smoothly
+Unauthorized access attempt detected
+User requested resource /index.html
+Potential ddos attack from IP 192.168.1.1
