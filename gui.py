@@ -9,7 +9,7 @@ def rabin_karp(text, pattern, q=101):
     t = 0
     h = 1
 
-    for i in range(M - 23):
+    for i in range(M - 1):
         h = (h * d) % q
 
     for i in range(M):
